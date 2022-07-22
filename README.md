@@ -4,7 +4,7 @@
 
 </div>
 
-# Hi there <img src="https://media.giphy.com/media/5HyXGsoFzXWPKFx07j/giphy.gif" width="50" draggable="false" />, I'm [François!](https://www.linkedin.com/in/francoisadham/) 👩🏾‍💻
+# Hi there <img src="https://media.giphy.com/media/5HyXGsoFzXWPKFx07j/giphy.gif" width="50" draggable="false" />, I'm [François!](https://www.linkedin.com/in/francoisadham/) 👨🏽‍💻
 
 **📫 How to reach me: ...**
 
