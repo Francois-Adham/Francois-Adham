@@ -69,7 +69,7 @@
 
 <div align="center">
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Francois-Adham&show_icons=true&theme=dark)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Francois-Adham&show_icons=true&theme=dark&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Francois-Adham&theme=dark&layout=compact)](https://github.com/Francois-Adham/github-readme-stats)
 
