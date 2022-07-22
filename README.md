@@ -1,3 +1,9 @@
+<div align="center">
+
+<img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" />
+
+</div>
+
 # Hi there <img src="https://media.giphy.com/media/5HyXGsoFzXWPKFx07j/giphy.gif" width="50" draggable="false" />, I'm [François!](https://www.linkedin.com/in/francoisadham/) 👩🏾‍💻
 
 **📫 How to reach me: ...**
@@ -27,8 +33,6 @@
 - 🏃‍♂️ I am passionate about Web Development, Machine Learning and Computer Vision
 - 💬 Ask me about anything, I will be happy to help
 
-<br />
-<br />
 <br />
 
 # 🤹🏼 My Skills
@@ -66,6 +70,9 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/d530d6a3a171a53f7b8eb4e9e005136e7ebd898f/topics/numpy/numpy.png"></code>
 
 </div>
+
+<br />
+<br />
 
 <div align="center">
 
