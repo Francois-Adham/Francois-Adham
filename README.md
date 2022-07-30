@@ -29,7 +29,7 @@
 
 # <img src="https://media.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif" width="50px" draggable="false" /> About Me
 
-- 🎓 I am a Computer Engineering Student <a href="http://eng.cu.edu.eg/ar/">@Faculty of Engineering Cairo University</a>
+- 🎓 I am a Fresh Graduate from Computer Engineering Department, <a href="http://eng.cu.edu.eg/ar/">Faculty of Engineering, Cairo University</a>
 - 🏃‍♂️ I am passionate about Web Development, Machine Learning and Computer Vision
 - 💬 Ask me about anything, I will be happy to help
 
